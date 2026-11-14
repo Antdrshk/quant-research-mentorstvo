@@ -1,8 +1,10 @@
 numpy>=2.0
-pandas>=2.0
+pandas>=2.0,<3.0
 matplotlib>=3.8
 scipy>=1.11
 statsmodels>=0.14
 seaborn>=0.13
 utilsforecast>=0.2
 coreforecast>=0.0.20
+statsforecast>=2.1
+scikit-learn>=1.9
