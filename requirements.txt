@@ -5,3 +5,4 @@ scipy>=1.11
 statsmodels>=0.14
 seaborn>=0.13
 utilsforecast>=0.2
+coreforecast>=0.0.20
